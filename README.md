@@ -1,3 +1,15 @@
+# [Reproduction] MCGaze  
+
+> **Fork Source:** https://github.com/zgchen33/MCGaze  
+> **Reproduction Status:** ⚠️ In Progress  
+> **Environment:** `uv`, Python 3.X, CUDA XX.X
+> **Hardware:** NVIDIA RTX XXXX
+
+## 🛠 What's different in this fork?  
+- Added `pyproject.toml` for `uv` support.  
+
+#
+
 # End-to-end Video Gaze Estimation via Capturing Head-face-eye Spatial-temporal Interaction Context (aka. Multi Clue Gaze) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/end-to-end-video-gaze-estimation-via/gaze-estimation-on-gaze360)](https://paperswithcode.com/sota/gaze-estimation-on-gaze360?p=end-to-end-video-gaze-estimation-via)
 <div align="center">
 
