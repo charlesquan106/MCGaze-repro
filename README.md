@@ -2,7 +2,7 @@
 
 > **Fork Source:** https://github.com/zgchen33/MCGaze  
 > **Reproduction Status:** ⚠️ In Progress  
-> **Environment:** `uv`, Python 3.X, CUDA XX.X
+> **Environment:** `uv`, Python 3.X, CUDA XX.X  
 > **Hardware:** NVIDIA RTX XXXX
 
 ## 🛠 What's different in this fork?  
